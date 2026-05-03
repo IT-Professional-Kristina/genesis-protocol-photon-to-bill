@@ -42,7 +42,7 @@ record ever created to the final bill sent to insurance.
 - [x] Phase 2 — Nuclear Fusion & Azure Functions *(Complete)*
 - [x] Phase 3 — Gravitational Structure & Azure AD *(Complete)*
 - [x] Phase 4 — Information Flow & Integration *(Complete)*
-- [ ] Phase 5 — Entropy & Billing Reporting
+- [x] Phase 5 — Entropy & Billing Reporting *(Complete)*
 
 ## Part of the Photons to Patient Series
 - Project 1: [From Photons to Patient](https://github.com/IT-Professional-Kristina/from-photons-to-patient)
